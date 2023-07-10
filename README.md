@@ -2,6 +2,13 @@
 
 This contract provides functionality for managing a library's collection of books on the blockchain. It allows users to add books, mark books as finished or unfinished, and retrieve lists of finished and unfinished books.
 
+![LibraryManagementDapp](https://github.com/Ayush852129/SolidityInt2/assets/123191444/008d9cb9-5765-4f0d-844b-fb60b4af86d7)
+![Screenshot 2023-07-10 164546](https://github.com/Ayush852129/SolidityInt2/assets/123191444/5ece28eb-eb4b-45f6-ac24-9f5f6a0dc432)
+![Screenshot 2023-07-10 164623](https://github.com/Ayush852129/SolidityInt2/assets/123191444/9d467dd2-482c-434a-9db5-b0b41bf9032f)
+
+
+
+
 ## Contract Structure
 
 The contract `LibraryManagement` is written in Solidity and follows the version `0.8.0`. It consists of the following key components:
@@ -50,3 +57,4 @@ Make sure you have a local development environment set up with Hardhat and Metam
 ## License
 
 This contract is licensed under the MIT License. 
+
